@@ -11,11 +11,10 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-name1 = 'Jath'
-name2 = "Claudia"
+#name1 = 'Jath'
+#name2 = "Claudia"
+
 def speak_to_grandma(string)
   puts string
 end
-
-speak_to_grandma(name1)
-speak_to_grandma(name2)
+ speak_to_grandma(name1lea)
