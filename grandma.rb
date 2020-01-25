@@ -15,5 +15,4 @@
 #name2 = "Claudia"
 
 def speak_to_grandma(string)
-  puts string
-end
+  if 
