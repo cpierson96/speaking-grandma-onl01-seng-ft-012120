@@ -17,4 +17,3 @@
 def speak_to_grandma(string)
   puts string
 end
- speak_to_grandma(name1lea)
