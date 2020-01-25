@@ -15,4 +15,5 @@
 #name2 = "Claudia"
 
 def speak_to_grandma(string)
-  if 
+  if string == string.upcase
+    
